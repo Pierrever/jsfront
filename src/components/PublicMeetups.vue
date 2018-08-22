@@ -11,7 +11,7 @@
         </div>
         <div class="panel-body">
           <p><span class="badge alert-info"> Host: </span> {{ meetup.host }} </p>
-          <p><span class="badge alert-danger"> Attendees: </span><strong> {{ meetup.attendees }} </strong></p>
+          <p><span class="badge alert-danger"> Attendees Kukuruku: </span><strong> {{ meetup.attendees }} </strong></p>
         </div>
       </div>
     </div>
@@ -22,7 +22,7 @@
         <router-link class="btn btn-lg btn-success" to="/private-meetups">Private Meetups</router-link>
       </div>
       <div class="jumbotron text-center" v-else>
-        <h2>Get Access to Private Meetups by Logging In</h2>
+        <h2>Get Access to Private Meetups by Fucking In</h2>
       </div>
     </div>
   </div>
