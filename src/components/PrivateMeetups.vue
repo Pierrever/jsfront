@@ -18,8 +18,8 @@
     
     <div class="col-sm-12">
       <div class="jumbotron text-center">
-        <h2>View Public Meetups</h2>
-        <router-link class="btn btn-lg btn-success" to="/"> Public Meetups </router-link>
+        <h2>View Moje Hovinko Meetups</h2>
+        <router-link class="btn btn-lg btn-success" to="/"> Jeho Hovinko Meetups </router-link>
       </div>
     </div>
   </div>
